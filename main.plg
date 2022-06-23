@@ -1,0 +1,13 @@
+<?xml version='1.0' standalone='yes'?>
+
+<!DOCTYPE PLUGIN [
+<!ENTITY name      "steace-plugin">
+<!ENTITY author    "Steace">
+<!ENTITY version   "2022.06.23">
+<!ENTITY pluginURL "https://github.com/SteaceP/unraid-plugin-test/raw/master/main.plg">
+]>
+
+<PLUGIN  name="&name;"
+         author="&author;"
+         version="&version;"
+         pluginURL="&pluginURL;">
