@@ -4,7 +4,7 @@
 <!ENTITY name      "steace-plugin">
 <!ENTITY author    "Steace">
 <!ENTITY version   "2022.06.23">
-<!ENTITY pluginURL "https://github.com/SteaceP/unraid-plugin-test/raw/master/main.plg">
+<!ENTITY pluginURL "https://github.com/SteaceP/unraid-plugin-test/raw/main/main.plg">
 ]>
 
 <PLUGIN  name="&name;"
